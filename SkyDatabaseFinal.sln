@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyDatabaseFinal", "SkyDatabaseFinal.csproj", "{B9FB3860-7C40-4DEE-AA2B-0A545CB60176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FB3860-7C40-4DEE-AA2B-0A545CB60176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FB3860-7C40-4DEE-AA2B-0A545CB60176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FB3860-7C40-4DEE-AA2B-0A545CB60176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FB3860-7C40-4DEE-AA2B-0A545CB60176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25C2BBE4-B01E-4758-902F-6DAA8F451F2A}
+	EndGlobalSection
+EndGlobal
